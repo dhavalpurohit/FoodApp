@@ -2,7 +2,16 @@
 
 A clean, high-performance food delivery application built with React Native Bare CLI, TypeScript, Zustand, and TanStack Query.
 
-## 🚀 Setup Steps
+## Tech Requirements
+
+| Tech             | Version  |
+| ---------------- | -------- |
+| **Node.js**      | `>=20`   |
+| **React Native** | `0.83.1` |
+| **React**        | `19.2.0` |
+| **TypeScript**   | `^5.8.3` |
+
+## Setup Steps
 
 1. **Clone the repository**
 2. **Install dependencies**:
